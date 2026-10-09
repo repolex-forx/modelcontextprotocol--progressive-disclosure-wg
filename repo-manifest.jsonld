@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/modelcontextprotocol/progressive-disclosure-wg/commit/9f43bd79c54c386982d341d5a911be5fe171b252",
       "git:hexsha": "9f43bd79c54c386982d341d5a911be5fe171b252",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "main"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "main",
+      "repolex:parsedAt": "2026-10-09T03:48:16.309778+00:00"
     }
   ]
 }
