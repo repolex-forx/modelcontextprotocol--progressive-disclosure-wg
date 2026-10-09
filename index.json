@@ -1,0 +1,11 @@
+{
+  "org": "modelcontextprotocol",
+  "repo": "progressive-disclosure-wg",
+  "versions": [
+    {
+      "commit": "9f43bd79c54c386982d341d5a911be5fe171b252",
+      "tag": "main",
+      "parsed_at": "2026-10-09T03:48:16.310198+00:00"
+    }
+  ]
+}
